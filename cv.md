@@ -1,5 +1,5 @@
 # Daria Rusaia
-![cv-photo](/rsschool-cv/cv-photo-1.jpg)
+![cv-photo](cv-photo-1.jpg)
 ***
 ## Contact info
 * **Address:** Belarus, Poland
