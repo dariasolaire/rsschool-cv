@@ -35,6 +35,8 @@ I'm good at building relationships with people, I'm pleasant in communication. I
 * __Polish__ in process
 ---
 ## Code example
+
+**JS**
 ```
 document.addEventListener("keydown", function(event) {
 
@@ -56,4 +58,15 @@ document.addEventListener("keydown", function(event) {
             break;
     }
 });
+```
+**CSS**
+```
+.container{
+    display: grid;
+    grid-gap: 8px;
+    grid-template-rows: 128px 128px 128px;
+    grid-template-columns: 128px 128px 128px;
+    margin-top: 80px;
+    margin-right: 100px;
+}
 ```
