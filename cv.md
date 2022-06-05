@@ -1,6 +1,5 @@
 # __Daria Rusaia__
 ## **Junior Frontend Developer**
-***
 ## Contact information:
 __Phone:__ +375 29 142 14 12  
 __E-mail:__ rusaiadaria1.20@gmail.com  
