@@ -1,4 +1,5 @@
 # __Daria Rusaia__
+![cv photo](cv-photo-1.jpg)
 ## **Junior Frontend Developer**
 ## Contact information:
 __Phone:__ +375 29 142 14 12  
