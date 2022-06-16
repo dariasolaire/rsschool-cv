@@ -1,0 +1,141 @@
+body {
+    margin: auto;
+    font-family: 'Patua One', cursive;
+}
+
+a img{
+    height: 40%;
+    width: 40%;
+}
+.button {
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Patua One', cursive;
+    font-size: 14pt;
+}
+
+.button:hover {
+    opacity: 1;
+    background-color: rgb(167, 189, 230);
+}
+
+.button:active {
+    background-color: darksalmon;
+    transform: translateY(4px);
+}
+
+h1{
+    align-self: flex-start;
+   margin-left: 90px;
+    margin-top: 75px;
+}
+
+header {
+    background-image: url("https://marketplace.canva.com/EAENvpM8lg0/1/0/1600w/canva-clean-work-place-linkedin-banner-ENugiXwwVkE.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+
+}
+
+header img {
+    height: 50%;
+    margin-top: 90px;
+    margin-left: 195px;
+    }
+
+nav{
+    margin-top: 130px;
+    margin-left: 150px;
+}
+
+.flex-container{
+    display: flex;
+}
+.flex-container-two{
+    display: flex;
+}
+
+#about{
+    background-color: rgb(255, 255, 255);
+    line-height: 110%;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+}
+#skills{
+    background-color: whitesmoke;
+    line-height: 110%;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 180px;
+    padding-top: 11px;
+    padding-bottom: 5px;
+    
+}
+#portfolio{
+    background-color: whitesmoke;
+    font-size: 22px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#lang{
+    background-color: whitesmoke;
+    line-height: 110%;
+    font-size: 22px;
+    padding-right: 190px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#code{
+    background-color: rgb(255, 255, 255);
+    line-height: 110%;
+    font-size: 15px;
+    
+}
+
+#projects{
+    background-color: rgb(255, 255, 255);
+    line-height: 110%;
+    font-size: 22px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ footer{
+     background-color: rgb(127, 127, 129);
+     height: 150px;
+     padding-left: 20px;
+     padding-top: 5px;
+     padding-bottom: 15px;
+     text-align: center;
+ }
+
+ footer img {
+     height: 40px;
+     width: 40px;
+ }
+
+
+
+nav .nav-bar-links.active{
+    display: flex;
+}
+
